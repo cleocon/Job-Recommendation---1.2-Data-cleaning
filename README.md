@@ -10,7 +10,7 @@ We are a team of five, and we are going to work on a Job / Talent recommendation
 
 # Job-Recommendation---1.2-Data-cleaning
 ## Objective
-In our last repositories about web scraping, the websites store the information in a batch, and we have to split them into columns for our projects. In this page we will focus on data cleaning.
+In our last repositories about web scraping, we talked about the websites store the information in a batch, and we have to split them into columns for our projects. In this page we will focus on data cleaning.
 
 ## Table of Contents
 1. Columns that we want to split from web scraping & the Code by @hwhaa
@@ -19,17 +19,19 @@ In our last repositories about web scraping, the websites store the information 
 4. Challenges
 
 ## 1. Columns that we want to split from what we scraped
-* From [Heading Information] , we want 
+* From [Heading Information] , we want: 
   * location
   * salary
   * post date
+  ![data clean](image/data%20cleaning%2011.png)
 
-* From [Additional Information] , we want
+* From [Additional Information] , we want:
   * Career Level
   * Qualification
   * Years of Experience
   * Job Type
   * Industry  
+ ![data clean](image/data%20cleaning%2012.png)
 
 * Besides, the employer didnt fill in all the information, so we also fill N/A to replace blank
 ## The Code
