@@ -156,6 +156,7 @@ print(datetime.now() - startTime)
 ```
 ## 2. Other data cleaning & code
 1. Salary - split salary range into 2 columns
+e.g. From [10,000-20,000] into [10,000] & [20,000]
 ```
 #replace nan as 0 for calculation
 dropped_j['salary'].fillna("0", inplace=True)
