@@ -30,7 +30,8 @@ In our last repositories about web scraping, we talked about the websites store 
   * Qualification
   * Years of Experience
   * Job Type
-  * Industry  
+  * Industry
+  * Benefit
  ![data clean](image/data%20cleaning%2012.png)
 
 * Besides, the employer didnt fill in all the information, so we also fill N/A to replace blank
