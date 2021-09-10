@@ -195,6 +195,7 @@ dropped_j['All'] = dropped_j[cols].apply(lambda row: ','.join(row.values.astype(
 
 ## 3. Conclusions
 The data here is simple, we only have to put them into correct columns, fill NA
+
 ## 4. Challenges
 Not standardised info <br>
 from the employer, they dont provide all information, e.g. salary, location. So the information provided on the job page can vary depends on the information provided by the employer. After some searching on different job posts, we are able to find out all the hidden headlines. 
