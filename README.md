@@ -4,7 +4,7 @@ We are a team of five, and we are going to work on a Job / Talent recommendation
 
 ## Table of Contents
 1.1 Web-scraping <br>
-1.2 Data cleaning
+1.2 Data cleaning (*please see below for details)
 
 
 
